@@ -12,8 +12,8 @@
 ```
 Este es un bloque tipo cita
 ```
+> [!NOTE]
 > Esto es una nota
-
 
 Visita: [Google](https://www.google.com)
 
